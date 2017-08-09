@@ -4,13 +4,13 @@
   "description": "React Select Google Places",
   "main": "lib/SelectGooglePlaces.js",
   "author": "Javier Cuevas",
-  "homepage": "https://github.com/zhoplocal/react-select-google-places",
+  "homepage": "https://github.com/bharthur/react-select-google-places",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zhoplocal/react-select-google-places.git"
+    "url": "https://github.com/bharthur/react-select-google-places.git"
   },
   "bugs": {
-    "url": "https://github.com/zhoplocal/react-select-google-places/issues"
+    "url": "https://github.com/bharthur/react-select-google-places/issues"
   },
   "dependencies": {
     "classnames": "^2.1.2",
